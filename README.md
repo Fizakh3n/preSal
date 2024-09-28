@@ -2,7 +2,6 @@
 🚀 Exciting Journey into Predictive Modeling with 'preSal'!! 🎉<br>
 •I’m thrilled to share my first-ever model deployment project, preSal, where I developed a predictive model to determine salary levels using a dataset from the UCI Machine Learning Repository. This journey has been an enriching experience filled with learning and innovation. 🛠️⚒️<br>
 <br>
-dataset : https://lnkd.in/ezFtGCex<br>
 <br>
 Here’s a breakdown of my process:<br>
 <br>
